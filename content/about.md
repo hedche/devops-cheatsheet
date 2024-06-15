@@ -3,4 +3,4 @@ title: About
 type: about
 ---
 
-This is the about page.
+This sheatsheet was born out of frustration. Feel free to add to it with a PR!

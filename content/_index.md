@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: DevOps Cheatsheet
 toc: false
 ---
 
-This is the landing page.
+Welcome to the DevOps Cheatsheet!
 
 ## Explore
 
@@ -12,6 +12,3 @@ This is the landing page.
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
