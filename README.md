@@ -1,4 +1,4 @@
-Taken from the Hextra Starter Template
+### https://hedche.github.io/devops-cheatsheet/
 
 [![Deploy Hugo site to Pages](https://github.com/hedche/devops-cheatsheet/actions/workflows/pages.yaml/badge.svg)](https://github.com/hedche/devops-cheatsheet/actions/workflows/pages.yaml)
 
