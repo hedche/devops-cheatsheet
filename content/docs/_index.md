@@ -1,13 +1,21 @@
 ---
 title: Documentation
-next: first-page
+next: Ansible
 ---
 
-This is a demo of the theme's documentation layout.
+### [Ansible](Ansible)
+### [Bash](Bash)
+### [git](git)
+### [Ci/CD](CI/CD)
+### [Debian/Ubuntu](Debian/Ubuntu)
+### [Docker](Docker)
+### [ZFS](ZFS)
+### [libvirt](libvirt)
 
-## Hello, World!
 
-```go {filename="main.go"}
+<!--
+## Code sample
+{{< highlight go "linenos=table" >}}
 package main
 
 import "fmt"
@@ -15,4 +23,5 @@ import "fmt"
 func main() {
     fmt.Println("Hello, World!")
 }
-```
+{{< /highlight >}}
+-->

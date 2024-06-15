@@ -3,4 +3,4 @@ title: About
 type: about
 ---
 
-This sheatsheet was born out of frustration. Feel free to add to it with a PR!
+This cheatsheet was born out of frustration. The more people add the less people suffer 😄
