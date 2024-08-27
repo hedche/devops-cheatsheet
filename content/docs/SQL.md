@@ -2,7 +2,7 @@
 title: SQL
 type: docs
 prev: docs/JavaScript
-next: /
+next: docs/Ubuntu
 ---
 
 ## SQLite

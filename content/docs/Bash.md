@@ -2,39 +2,39 @@
 title: Bash
 type: docs
 prev: docs/Bash
-next: docs/Debian
+next: docs/Docker
 ---
 
 ## sed
-### Against variables
+#### Against variables
 ```bash
 sed ‘s/Hello/Hi/g’ <<< “$var”
 ```
-### Against file
+#### Against file
 ```bash
 sed ‘s/Hello/Hi/g’ -i /path/goes/here.txt`
 ```
-### Delete a line
+#### Delete a line
 ```bash
 sed ‘/pattern/d’
 ```
-### Replace with string
+#### Replace with string
 ```bash
 sed ‘s/pattern/string/g’
 ```
 
 ## grep
-### Find string in files and show filenames
+#### Find string in files and show filenames
 ```bash
 grep -H 'my_string' /path/to/multiple/*/*/*
 ```
 
 ## tar
-### Compress
+#### Compress
 ```bash
 tar -cvzf archive_name.tar.gz directory
 ```
-### Uncompress
+#### Uncompress
 ```bash
 tar -xvzf archive_name.tar.gz -C /path/to/dest_dir
 ```
@@ -46,7 +46,7 @@ ls non_existent_dir >/dev/null 2>&1` OR `ls non_existent_dir &>/dev/null
 ```
 
 ## Random
-### Run portion of Bash script as another user
+#### Run portion of Bash script as another user
 ```bash
 if [[ $(id -u) -eq 0 ]]; then
   su - target_user -c "$(cat << 'EOF'

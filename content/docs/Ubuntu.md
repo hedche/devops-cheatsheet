@@ -1,8 +1,8 @@
 ---
-title: Debian
+title: Ubuntu
 type: docs
-prev: docs/Bash
-next: docs/Docker
+prev: docs/SQL
+next: docs/
 ---
 
 #### Change TZ to London

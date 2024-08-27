@@ -1,7 +1,7 @@
 ---
 title: Docker
 type: docs
-prev: docs/Debian
+prev: docs/Bash
 next: docs/Fun
 ---
 
