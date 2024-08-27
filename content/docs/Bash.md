@@ -2,7 +2,7 @@
 title: Bash
 type: docs
 prev: docs/Bash
-next: docs/Debian-Ubuntu
+next: docs/Debian
 ---
 
 ## sed

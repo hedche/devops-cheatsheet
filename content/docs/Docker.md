@@ -1,5 +1,5 @@
 ---
-title: Debian
+title: Docker
 type: docs
 prev: docs/Debian
 next: docs/Fun

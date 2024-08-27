@@ -5,10 +5,12 @@ next: Ansible
 
 ### [Ansible](Ansible)
 ### [Bash](Bash)
-### [git](git)
-### [Ci/CD](CI/CD)
-### [Debian/Ubuntu](Debian/Ubuntu)
+### [CI/CD](CI/CD)
+### [Debian/Ubuntu](Debian)
 ### [Docker](Docker)
+### [Fun](Fun)
+### [git](git)
+### [JavaScript](JavaScript)
 ### [ZFS](ZFS)
 ### [libvirt](libvirt)
 
