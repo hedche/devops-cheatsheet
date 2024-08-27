@@ -2,7 +2,7 @@
 title: Debian
 type: docs
 prev: docs/Bash
-next: docs/Fun
+next: docs/Docker
 ---
 
 #### Change TZ
