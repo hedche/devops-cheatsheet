@@ -1,7 +1,7 @@
 ---
-title: Debian
+title: Fun
 type: docs
-prev: docs/Fun
+prev: docs/Docker
 next: docs/Git
 ---
 

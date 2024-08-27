@@ -1,8 +1,8 @@
 ---
 title: Git
 type: docs
-prev: /
-next: docs/folder/
+prev: docs/Fun
+next: docs/JavaScript
 ---
 ### Update your branch with `main`
 #### Option 1
