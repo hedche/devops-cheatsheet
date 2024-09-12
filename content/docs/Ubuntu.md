@@ -2,7 +2,7 @@
 title: Ubuntu
 type: docs
 prev: docs/SQL
-next: docs/
+next: docs/Vim
 ---
 
 ### Mistake in sudoers or similar?
