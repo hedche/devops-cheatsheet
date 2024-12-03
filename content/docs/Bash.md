@@ -58,3 +58,8 @@ else
   echo "Exiting as not root..."
 fi
 ```
+
+#### Styling looking weird
+```
+cat <path_here> | less -R
+```
