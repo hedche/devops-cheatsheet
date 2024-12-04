@@ -28,3 +28,10 @@ next: docs/Vim
 ```
 sudo ln -sf /usr/share/zoneinfo/Europe/London /etc/localtime
 ```
+
+### Finding UUID drive info
+```
+ls -lh /dev/disk/by-id/
+```
+
+
