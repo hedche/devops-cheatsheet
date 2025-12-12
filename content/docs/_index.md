@@ -3,15 +3,15 @@ title: Documentation
 next: Ansible
 ---
 
-### [Ansible](Ansible)
-### [Bash](Bash)
-### [CI/CD](CI/CD)
-### [Debian/Ubuntu](Debian)
-### [Docker](Docker)
-### [Fun](Fun)
+### [Ansible](ansible)
+### [Bash](bash)
+### [CI/CD](ci-cd)
+### [Debian/Ubuntu](debian)
+### [Docker](docker)
+### [Fun](fun)
 ### [git](git)
-### [JavaScript](JavaScript)
-### [ZFS](ZFS)
+### [JavaScript](javascript)
+### [ZFS](zfs)
 ### [libvirt](libvirt)
 
 
